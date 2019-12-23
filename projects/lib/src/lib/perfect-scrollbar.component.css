@@ -79,7 +79,7 @@ perfect-scrollbar[fxlayout='column'] > .ps > .ps-content {
 }
 
 perfect-scrollbar > .ps {
-  position: static;
+  position: absolute;
 
   display: block;
   width: 100%;
